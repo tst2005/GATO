@@ -1,15 +1,11 @@
 
-Mes repo
-========
+GATO
+====
 
-* [nocolor](https://github.com/tst2005/nocolor) où comment supprimer la couleur !
+ * https://www.youtube.com/watch?v=WAEe7Swhkxc
 
-Links
-=====
+Par date
 
-Serious games & challenge
- * [code combat](http://codecombat.com) (javascripts/python/lua)
- * [hacker rank](http:/hackerrank.com) (absolument tous les languages?)
+ * [20160818.md](20160818.md) nocolor, Serious games & challenge, code combat, hacker rank, Image+HTML.
+ * [20160901.md](20160901.md) bracketed-paste, pygame, petite demo, outil de tileset, faire une grille de gros carré avec gimp.
 
-Divers
-* [image + html, tout en un](http://lcamtuf.coredump.cx/squirrel/#)
