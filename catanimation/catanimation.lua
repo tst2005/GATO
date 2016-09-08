@@ -8,15 +8,15 @@ require "love.event"
 require "love.timer"
 
 --pygame.init()
-function love.init()
-	--FPS = 30 # frames per second setting
+function love.load()
+	FPS = 30 -- frames per second setting
 	--fpsClock = pygame.time.Clock()
 
 	-- DISPLAYSURF = pygame.display.set_mode((400, 300), 0, 32)
 	love.window.setMode( 400, 300, {} )
 
 	-- pygame.display.set_caption('Animation')
-	love.graphics.setCaption('Animation')
+	love.window.setTitle('Animation')
 
 	-- WHITE = (255, 255, 255)
 	WHITE = {255, 255, 255}
