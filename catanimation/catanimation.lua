@@ -10,7 +10,7 @@ require "love.timer"
 --pygame.init()
 function love.load()
 	FPS = 30 -- frames per second setting
-	--fpsClock = pygame.time.Clock()
+	-- fpsClock = pygame.time.Clock()
 
 	-- DISPLAYSURF = pygame.display.set_mode((400, 300), 0, 32)
 	love.window.setMode( 400, 300, {} )
@@ -32,8 +32,9 @@ end
 
 
 --while True: # the main game loop
---    DISPLAYSURF.fill(WHITE)
 function love.update(dt)
+	-- DISPLAYSURF.fill(WHITE)
+	love.graphics.setBackgroundColor(WHITE)
 
 	-- if direction == 'right':
 	-- 	catx += 5
