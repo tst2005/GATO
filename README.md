@@ -6,6 +6,8 @@ GATO
 
 Par date
 
- * [20160818.md](20160818.md) nocolor, Serious games & challenge, code combat, hacker rank, Image+HTML.
- * [20160901.md](20160901.md) bracketed-paste, pygame, petite demo, outil de tileset, faire une grille de gros carré avec gimp.
+ * [20160818](20160818.md) nocolor, Serious games & challenge, code combat, hacker rank, Image+HTML.
+ * [20160901](20160901.md) bracketed-paste, pygame, petite demo, outil de tileset, faire une grille de gros carré avec gimp.
+ * [20160908](20160908.md) git et les repertoires vide, catanimation avec love2d,
+firejail, scons et la compilation, split windows pour vim, gource l'historique git en animation, perror pour MySQL, diff pour atom.
 
