@@ -1,0 +1,49 @@
+
+# git et les repertoires vide
+
+```sh
+mkdir x ; cd x ; git init
+mkdir dir
+echo '*' >>  dir/.gitignore
+echo '!.gitignore' >>  dir/.gitignore
+```
+
+FIXME: verifier si j'oublie rien
+
+
+# catanimation avec love2d 
+
+Voir [catanimation](https://github.com/tst2005/GATO/)
+
+# firejail
+
+Un outil pour 
+
+# scons et la compilation
+
+Retenir qu'à la compilation il y a un ordre précis a respecter :
+ CFLAGS + OBJ + LIBS.
+
+# split windows dans vim 
+
+Comment mapper des racourcis sympatique pour ouvrir des nouvelles fenetres splités dans vim.
+
+TODO: récuperer la config pour exemple.
+
+# gource un historique git visuel
+
+C'est outil qui produit un rendu visuel animé de l'activité d'un depot git.
+Il faut simplement le lance dans un clone et admirer le resultat!
+
+# Comprendre les erreurs MySQL
+
+Il existe une commande `perror` a qui on donne un numero d'erreur obscur et qui nous dit ce que c'est de facon plus explicite.
+
+```
+$ perror <errorcode> (specifique a mysql)
+```
+
+# du joli diff pour l'editeur atom
+
+Le plugin `git time machine` pour l'editeur atom affiche un diff assez sympa!
+
