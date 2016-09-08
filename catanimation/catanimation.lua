@@ -2,10 +2,13 @@
 --import pygame, sys
 --from pygame.locals import *
 
+-- <puriste>
 require "love" -- or: local love = require "love"
 require "love.graphics"
 require "love.event"
 require "love.timer"
+local catx, caty, catImg, direction, FPS, fps, WHITE
+-- </puriste>
 
 --pygame.init()
 function love.load()
