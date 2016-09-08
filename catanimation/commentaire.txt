@@ -1,0 +1,13 @@
+
+love2d
+======
+
+ * ca commence dans main.lua : le code utilisé sert juste a charger catanimation.lua
+ * on définit les fonctions `love.*` puis les mecanismes interne (voir [love.run](https://love2d.org/wiki/love.run))de love2d s'occupe de les appeler dans le bon ordre.
+ * en gros ca alterne entre `love.update` pour mettre a jour des donnees, et `love.draw` pour les dessiner a l'ecran
+
+difference entre la version python et lua
+=========================================
+
+ * love2d gère déjà la fermeture de la fenetre proprement, mais si l'on veut executer du code a la fermeture il suffit de personnaliser la fonction love.quit
+ * j'ai ajouté du code pour quitter quand ton appuis sur la touche 'escape'
