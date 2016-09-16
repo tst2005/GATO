@@ -10,4 +10,5 @@ Par date
  * [20160901](20160901.md) bracketed-paste, pygame, petite demo, outil de tileset, faire une grille de gros carré avec gimp.
  * [20160908](20160908.md) git et les repertoires vide, catanimation avec love2d,
 firejail, scons et la compilation, split windows pour vim, gource l'historique git en animation, perror pour MySQL, diff pour atom.
+ * [20160915](20160915.md) logstalgia, GraphQL, fond d'ecran, unicode, lean x in y minutes, tmux, screen, bats, couleurs.
 
