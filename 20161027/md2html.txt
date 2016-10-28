@@ -1,0 +1,1 @@
+alias pandoc-slidy='pandocslidy() { pandoc "${1%.md}.md" -f markdown -t slidy --self-contained --incremental > "${1%.md}.html"; }; pandocslidy'
