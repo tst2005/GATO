@@ -15,3 +15,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20161006](20161006.md) sql injection, hardlink.
  * ([20161013](20161013.md)) LUG
  * [20161027](20161027.md) lua-memfs, ssh ControlMaster, SPA Single Packet Authorization. faille dirtycow, systemtap
+ * [20161103](20161103.md) base64url
