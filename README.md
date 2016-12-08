@@ -18,3 +18,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20161103](20161103.md) base64url
  * [20161124](20161124.md) dessin vectoriel, site de challenge, vim statusline affiche en hexa, de la neige
  * [20161201](20161201.md) MDWiki.info, du lua, du C, de l'internationnalisation, convertion de base en shell
+ * [20161208](20161208.md) rogue-like, punycode, FUSE sur Windows, Logical Volume sous Windows : Dynamic Disks
