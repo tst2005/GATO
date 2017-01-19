@@ -21,3 +21,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20161208](20161208.md) rogue-like, punycode, FUSE sur Windows, Logical Volume sous Windows : Dynamic Disks
  * [20161215](20161215.md) kakoune - editeur vim-like, LXC - Linux Containers, IPv6 enabled Christmas Tree
  * [20161222](20161222.md) ColorfulTabs, du talent, le protocol IRC, sauvegardes emails via imap
+ * [20170119](20170119.md) browserify, vuejs, babeljs, isync-all
