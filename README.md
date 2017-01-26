@@ -22,3 +22,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20161215](20161215.md) kakoune - editeur vim-like, LXC - Linux Containers, IPv6 enabled Christmas Tree
  * [20161222](20161222.md) ColorfulTabs, du talent, le protocol IRC, sauvegardes emails via imap
  * [20170119](20170119.md) browserify, vuejs, babeljs, isync-all
+ * [20170126](20170126.md) spore/lua-spore, git rebase, pip upgrade, virtualenv, pew, venv(python 3.2) venv, pipFile, pipenv, multi curseur, xmacro
