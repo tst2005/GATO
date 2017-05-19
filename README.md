@@ -25,4 +25,5 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170126](20170126.md) spore/lua-spore, git rebase, pip upgrade, virtualenv, pew, venv(python 3.2) venv, pipFile, pipenv, multi curseur, xmacro
  * [20170202](20170202.md) antidote, vim/ale, obfuscation js (challenge), radare 2, cours primive système et noyaux
  * [20170309](20170309.md) github dark theme, 3d en bash, radare/peda, xfce, mpv, octobox, Dessin par réseau neuronaux
- * [20170504](20170504.md) ...
+ * [20170504](20170504.md) OpenStreetMap en Ascii, parser en C, jimhttp, store shm en ksh/mksh, TAP en ksh/mksh
+ * [20170518](20170518.md) 1/sqrt(x), aide juridictionnelle, mooc de l'ANSSI, WannaCry
