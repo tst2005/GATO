@@ -27,4 +27,5 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170309](20170309.md) github dark theme, 3d en bash, radare/peda, xfce, mpv, octobox, Dessin par réseau neuronaux
  * [20170504](20170504.md) OpenStreetMap en Ascii, parser en C, jimhttp, store shm en ksh/mksh, TAP en ksh/mksh
  * [20170518](20170518.md) 1/sqrt(x), aide juridictionnelle, mooc de l'ANSSI, WannaCry
- * [20170631](20170601.md) Unicode, x2go (rdesktop/vnc -like), navigateurs: netsurf et otter, tableaux en js
+ * [20170601](20170601.md) Unicode, x2go (rdesktop/vnc -like), navigateurs: netsurf et otter, tableaux en js
+ * [20170608](20170608.md) auto-dark theme stylish, OneTab, Session manager, i3lock, lolcommitsm vim 80char columns, chiots lasers
