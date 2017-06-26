@@ -29,3 +29,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170518](20170518.md) 1/sqrt(x), aide juridictionnelle, mooc de l'ANSSI, WannaCry
  * [20170601](20170601.md) Unicode, x2go (rdesktop/vnc -like), navigateurs: netsurf et otter, tableaux en js
  * [20170608](20170608.md) auto-dark theme stylish, OneTab, Session manager, i3lock, lolcommitsm vim 80char columns, chiots lasers
+ * [20170622](20170622.md) Time-based OneTimePassword, __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED
