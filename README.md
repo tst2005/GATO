@@ -31,3 +31,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170608](20170608.md) auto-dark theme stylish, OneTab, Session manager, i3lock, lolcommitsm vim 80char columns, chiots lasers
  * [20170622](20170622.md) Time-based OneTimePassword, __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED
  * [20170629](20170629.md) mimic, debian installeur, bible et logs
+ * [20170706][20170706.md) ...
