@@ -35,3 +35,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170720](20170720.md) cpubenchmark et videobenchmark, ssllabs et dnsspy.io, mscoco.org, Reconstruction de visage pixelisé, tethering Android et double IP, haskell-gi, willrobotstakemyjob, escargot/MSN, VimFx/vimium, tree-style-tab, uMatrix
  * 20170727
  * [20170803](20170803.md) GNOME Recherche, SWAKS, minijack OMTP & AHJ, SPAM/HAM script, machine a badges
+ * [20170824](20170824.md) React sketchapp/primitives/create-react-app, theme base16, puri.sm/librem-5, voice mozilla
