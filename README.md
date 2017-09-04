@@ -36,3 +36,4 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * 20170727
  * [20170803](20170803.md) GNOME Recherche, SWAKS, minijack OMTP & AHJ, SPAM/HAM script, machine a badges
  * [20170824](20170824.md) React sketchapp/primitives/create-react-app, theme base16, puri.sm/librem-5, voice mozilla
+ * [20170831](20170831.md) reindenter/beautifier avec prettier neovim, rxjs, cassowary overconstrained, internet.nl, securityheaders.io, command
