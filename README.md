@@ -39,3 +39,5 @@ firejail, scons et la compilation, split windows pour vim, gource l'historique g
  * [20170831](20170831.md) reindenter/beautifier avec prettier neovim, rxjs, cassowary overconstrained, internet.nl, securityheaders.io, command
  * [20170914](20170914.md)
  * [20170921](20170921.md)
+ * [20171004](20171004.md)
+ * [20171011](20171011.md)
